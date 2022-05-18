@@ -297,6 +297,22 @@ select:focus {
     outline: none;
 }
 
+.buttons {
+    text-align: right;
+    padding-bottom: 40px;
+}
+
+.buttons a {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 5px;
+    padding: 12px 20px;
+    border: 0;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
 
 /*------- PRODUCT DETAILS -----*/
 
